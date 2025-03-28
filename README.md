@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Wordle
 Word game, using React
 =======
