@@ -52,6 +52,3 @@ This command will copy all configuration files and dependencies (Webpack, Babel,
 - [Advanced Configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 - [Deployment](https://facebook.github.io/create-react-app/docs/deployment)
 - [Troubleshooting](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
----
-
