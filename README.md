@@ -40,5 +40,4 @@ Learn more about deployment [here](https://facebook.github.io/create-react-app/d
 Once you eject, you can’t go back!  
 This command will copy all configuration files and dependencies (Webpack, Babel, ESLint, etc.) into your project so you can fully customize them.
 
----
 
